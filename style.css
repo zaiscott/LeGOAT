@@ -90,18 +90,17 @@ svg
     float: right;
     margin-top: 200px;
     font-weight: bold;
+    border: solid;
 }
 
 #Lebron
 {
-     color: yellow;
+    color: yellow;
    float: right
     
     font-weight: bold;
     margin-right: 50px;
-    
-
-    
+    border: solid;
     
     
 }
