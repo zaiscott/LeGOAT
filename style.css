@@ -1,0 +1,84 @@
+.info
+{
+    
+    position: fixed;
+    width:40px;
+    height:20px;
+    background-color: black;
+    color: white;
+    
+    
+    
+    
+    
+}
+
+body
+
+{
+
+    font-size: 20px;
+
+    color: black;
+    
+    font-weight: bold;
+
+    background-attachment: fixed;
+
+    background-image: url("lol.png");
+
+    background-size: cover;
+    
+    font-family: 'Special Elite', cursive;
+
+}
+
+svg
+{
+    border: solid;
+    border-color: red;
+    background-color: rgba(210, 210, 210, 0.5);
+     margin-left: 220px;
+    margin-bottom: 150px;
+    align-content: center;
+}
+
+#Ytitle
+{
+    color: skyblue;
+    
+}
+
+#Xtitle
+{
+    color: skyblue;
+    
+}
+
+#hi
+{
+   
+    color: red;
+    background-size:cover;
+
+    margin-bottom: 10px;
+    margin-left: 650px;
+    
+
+    height: 50px;
+
+    overflow: hidden;
+
+    position:absolute;
+
+
+    top: 0px;
+
+    border-radius: 10px;
+
+    padding: 0px 20px;
+
+    background-color: rgba(255, 255, 255, 0.09);
+    
+
+}
