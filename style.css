@@ -29,7 +29,7 @@ body
 
     background-size: cover;
     
-    font-family: 'Special Elite', cursive;
+    font-family:inherit
 
 }
 
@@ -46,6 +46,7 @@ svg
 #Ytitle
 {
     color: skyblue;
+    
     
 }
 
@@ -81,4 +82,25 @@ svg
     background-color: rgba(255, 255, 255, 0.09);
     
 
+}
+
+#MJ
+{
+    color: red;
+    float: right;
+}
+
+#Lebron
+{
+    color: yellow;
+    float: right;
+    margin-top: 150px;
+    font-weight: bold;
+    
+    
+    
+}
+#svg
+{
+       margin:auto
 }
