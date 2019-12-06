@@ -37,6 +37,8 @@ svg
 {
     border: solid;
     border-color: red;
+        font-weight: bold;
+
     background-color: rgba(210, 210, 210, 0.5);
      margin-left: 20px;
     margin-bottom: 10px;
@@ -45,11 +47,14 @@ svg
 
 #Ytitle
 {
-    color: skyblue;
+    color:wheat;
+    border-bottom: solid;
+        font-weight: bold;
+
     float:left;
     transform: rotate(270deg);
     margin-top: 60px;
-    
+    background-color: rgba(210, 210, 210, 0.5);
     
     
  
@@ -60,9 +65,11 @@ svg
 
 #Xtitle
 {
-    color: skyblue;
+    color: wheat;
     float:left;
-    
+    border-top: solid;
+    background-color: rgba(210, 210, 210, 0.5);
+
 }
 
 #hi
