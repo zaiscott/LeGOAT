@@ -47,7 +47,7 @@ svg
 
 #Ytitle
 {
-    color:wheat;
+    color:black;
     border-bottom: solid;
         font-weight: bold;
 
@@ -65,7 +65,7 @@ svg
 
 #Xtitle
 {
-    color: wheat;
+    color: black;
     float:left;
     border-top: solid;
     background-color: rgba(210, 210, 210, 0.5);
